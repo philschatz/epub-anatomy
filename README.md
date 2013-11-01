@@ -1,9 +1,9 @@
 epub-anatomy
 ============
 
-Read the book online at http://philschatz.github.io/epub-anatomy/reader/
+[Read the book online](http://philschatz.github.io/epub-anatomy/reader/) (note the **Table of Contents button** on the top-left and the **Annotation buttons** on the top-right of the page)
 
-Download the PDF! [![PDF Status](http://pdf.oerpub.org/philschatz/epub-anatomy.png)](http://pdf.oerpub.org/philschatz/epub-anatomy/)
+[Download the PDF!](http://pdf.oerpub.org/philschatz/epub-anatomy/) [![PDF Status](http://pdf.oerpub.org/philschatz/epub-anatomy.png)](http://pdf.oerpub.org/philschatz/epub-anatomy/)
 
 ----
 
