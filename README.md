@@ -1,12 +1,17 @@
 epub-anatomy
 ============
 
-[Read the book online](http://philschatz.github.io/epub-anatomy/reader/) (note the **Table of Contents button** on the top-left and the **Annotation buttons** on the top-right of the page)
+Hello! This is a test book on GitHub. From here you can:
 
-[Download the PDF!](http://pdf.oerpub.org/philschatz/epub-anatomy/) [![PDF Status](http://pdf.oerpub.org/philschatz/epub-anatomy.png)](http://pdf.oerpub.org/philschatz/epub-anatomy/)
+* [Read the book online](http://philschatz.github.io/epub-anatomy/reader/) (note the **Table of Contents button** on the top-left and the **Annotation buttons** on the top-right of the page)
+* [Download the PDF!](http://pdf.oerpub.org/philschatz/epub-anatomy/) [![PDF Status](http://pdf.oerpub.org/philschatz/epub-anatomy.png)](http://pdf.oerpub.org/philschatz/epub-anatomy/) : updates every time the book is changed
+* [Edit the Book online!](http://oerpub.github.io/github-bookeditor/#repo/philschatz/epub-anatomy) : takes a while to load but you can close the login to just play around
 
 ----
 
+## Below be Dragons
+
+You've been warned!
 
 Anatomy and Physiology test data
 
