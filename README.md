@@ -3,10 +3,10 @@ Howdy!
 
 This is a test book on GitHub. From here you can:
 
-1. [Read the book online](http://philschatz.github.io/epub-anatomy/reader/) (note the **Table of Contents button** on the top-left and the **Annotation buttons** on the top-right of the page)
-2. [Download the PDF!](http://pdf.oerpub.org/philschatz/epub-anatomy/) [![PDF Status](http://pdf.oerpub.org/philschatz/epub-anatomy.png)](http://pdf.oerpub.org/philschatz/epub-anatomy/) : updates every time the book is changed
-3. **[Edit the Book online!](http://oerpub.github.io/github-bookeditor/#repo/philschatz/epub-anatomy)** : takes a while to load but you can close the login to just play around
-4. [Download the book](https://github.com/philschatz/epub-anatomy/archive/master.zip) by clicking the "Download ZIP" button on this page
+1. **[Read the book online](http://philschatz.github.io/epub-anatomy/reader/)** (note the **TOC button** on the top-left and the **Annotation buttons** on the top-right of the page)
+2. **[Download the PDF!](http://pdf.oerpub.org/philschatz/epub-anatomy/)** [![PDF Status](http://pdf.oerpub.org/philschatz/epub-anatomy.png)](http://pdf.oerpub.org/philschatz/epub-anatomy/) : updated every time the book is changed
+3. **[Edit the Book online!](http://oerpub.github.io/github-bookeditor/#repo/philschatz/epub-anatomy)** : takes a while to load but close the login to just play around
+4. [Download the book](https://github.com/philschatz/epub-anatomy/archive/master.zip) by clicking the "[Download ZIP](https://github.com/philschatz/epub-anatomy/archive/master.zip)" button on this page
 
 ----
 
